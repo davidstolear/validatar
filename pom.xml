@@ -9,7 +9,7 @@
     <description>
         Validatar is a functional testing framework for Big Data
     </description>
-    <url>https://github.com/yahoo/validatar</url>
+    <url>https://github.com/davidstolear/validatar</url>
 
     <licenses>
         <license>
@@ -19,9 +19,9 @@
     </licenses>
 
     <scm>
-        <url>https://github.com/yahoo/validatar</url>
-        <connection>scm:git:ssh://git@github.com/yahoo/validatar.git</connection>
-        <developerConnection>scm:git:ssh://git@github.com/yahoo/validatar.git</developerConnection>
+        <url>https://github.com/davidstolear/validatar</url>
+        <connection>scm:git:ssh://git@github.com/davidstolear/validatar.git</connection>
+        <developerConnection>scm:git:ssh://git@github.com/davidstolear/validatar.git</developerConnection>
         <tag>HEAD</tag>
     </scm>
 
